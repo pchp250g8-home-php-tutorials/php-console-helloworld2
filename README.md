@@ -3,7 +3,7 @@ A console application in the PHP programming language.
 The program does the following:
   1. Prompts input a name
   2. Displays the phrase "Hello, " plus the name is inputed.
-Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio Code etitor).
+Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio Code editor).
 
 
 HelloWorld2. Занятия по PHP. Простой Ввод/вывод. Консольное приложение.
